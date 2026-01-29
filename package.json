@@ -1,0 +1,10 @@
+{
+  "name": "dapup",
+  "version": "1.0.0",
+  "description": "DapUp static site",
+  "scripts": {
+    "build": "exit 0"
+  },
+  "private": true
+}
+
